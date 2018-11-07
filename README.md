@@ -61,5 +61,29 @@ com.torch.extension.aix--利用移动设备上的闪光灯实现手电筒功能
 
 
 
+apk文件夹中是本人用app inventor开发的一些apk：
 
-audioplayer.apk--具有从网络下载歌曲功能和显示歌词功能的音乐播放器
+
+audioplayer.apk--具有从网络搜索、网络下载歌曲功能和显示歌词功能的音乐播放器
+
+
+bianlishenghuo.apk--具有打电话、发短信、闹钟、语音提醒和定位功能
+
+
+caiquan.apk--两个人可以联网玩游戏
+
+
+chengyujielong_dz.apk--两个人可以利用蓝牙聊天和玩游戏
+
+
+dingwei_x.apk--具有定位、电子围栏和报警功能
+
+
+jishiben.apk--具有绘图功能、能够编辑、保存、分享文字和图片，及保存多个笔记
+
+
+leitingzhanji_jilu.apk--综合性的飞行射击游戏
+
+
+suishenbao.apk--具有在线中英文翻译、新华字典查询、辞海查询、成语查询和唐诗宋词查询功能
+
