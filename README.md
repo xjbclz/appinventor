@@ -33,5 +33,33 @@ com.firstrun.extensions.aix--判断App是否第一次运行
 com.geometricoperation.extension.aix--提供计算图形面积和体积的功能
 
 
+com.jsoncreate.extension.aix--创建JSON字符串插件
+
+
+com.locationstate.extension.aix--获取定位功能状态
+
+
+com.mobilephonenumber.extension.aix--手机号码校验
+
+
+com.networkstate.extension.aix--获取和监测设备网络状态
+
+
+com.notifier.extension.aix--对话框插件
+
+
+com.qzlist.extension.aix--能够比较灵活的创建列表，及提供列表排序、查找最大值和最小值的功能
+
+
+com.systeminfo.extension.aix--获取设备和设备上运行的系统的相关信息，包括：设备型号、设备的IMEI号码、设备屏幕的宽度、设备屏幕的高度、屏幕的DPI、系统的API级别、系统的版本、系统当前时间和当前运行的App的版本号等
+
+
+com.systemsettings.extension.aix--用于从用户操作的当前界面，跳转到系统设置界面，以方便用户进行各种设置
+
+
+com.torch.extension.aix--利用移动设备上的闪光灯实现手电筒功能
+
+
+
 
 audioplayer.apk--具有从网络下载歌曲功能和显示歌词功能的音乐播放器
