@@ -87,3 +87,5 @@ leitingzhanji_jilu.apk--综合性的飞行射击游戏
 
 suishenbao.apk--具有在线中英文翻译、新华字典查询、辞海查询、成语查询和唐诗宋词查询功能
 
+tuxiangshibie_jh.apk--能够识别图像中的文字，并支持以文本或文件形式分享识别出的文字
+
