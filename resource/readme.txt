@@ -1,1 +1,1 @@
-《App Inventor 2的定制与二次开发》书里提到的源码
+《App Inventor 2 定制与二次开发》这本书的配套资源
