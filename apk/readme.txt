@@ -1,1 +1,1 @@
-此文件夹中存放的是用app inventor存放的apk
+此文件夹中存放的是用app inventor开发的apk
