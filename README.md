@@ -5,8 +5,7 @@ app inventor资源包括：源码文件、扩展和使用app inventor开发的ap
 
 resource文件夹中是《App Inventor 2定制与二次开发》这本书的配套资源                                                                             
 
-这本书在网上可以买到：                                                                                                                        
-京东：https://item.jd.com/31166920378.html
+这本书在网上可以买到：                                                                                                                      京东：http://item.jd.com/12380450.html
 
 当当：http://product.dangdang.com/25289290.html                                                                                    
 
