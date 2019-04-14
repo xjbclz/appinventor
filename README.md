@@ -3,6 +3,10 @@ app inventor资源包括：源码文件、扩展和使用app inventor开发的ap
 
 本人从事编程教学培训工作，可线上和线下(上海地区)教学，如有兴趣学习、交流app inventor开发，可以加我QQ和微信，两个号都是:147423246   
 
+
+课程资料文件夹中是App Inventor课程资料
+
+
 resource文件夹中是《App Inventor 2定制与二次开发》这本书的配套资源                                                                             
 
 这本书在网上可以买到：                                                                                                                      
