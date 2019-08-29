@@ -68,7 +68,7 @@ com.torch.extension.aix--利用移动设备上的闪光灯实现手电筒功能
 apk文件夹中是本人用app inventor开发的一些apk：
 
 
-audioplayer.apk--具有从网络搜索、网络下载歌曲功能和显示歌词功能的音乐播放器
+audioplayer_new.apk--具有从网络搜索、网络下载歌曲功能和显示歌词功能的音乐播放器，还可以把歌曲图片设置成桌面壁纸，把歌曲设置成来电铃声
 
 
 bianlishenghuo.apk--具有打电话、发短信、闹钟、语音提醒和定位功能
